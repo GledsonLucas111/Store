@@ -4,4 +4,7 @@ export const theme = extendTheme({
   colors: {
     
   },
+  fonts: {
+    body: "'Roboto', sans-serif"
+  }
 });
